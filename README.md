@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+A worldwide weather application... used to inquire about the weather conditions in any place
 
 ## Getting Started
 
